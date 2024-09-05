@@ -1,4 +1,4 @@
-AddLanguage('PL','polish',{
+AddLanguage('PL','Japanese',{
 	"": {
 		"language": "PL",
 		"plural-forms": "nplurals=2;plural=(n!=1);"
